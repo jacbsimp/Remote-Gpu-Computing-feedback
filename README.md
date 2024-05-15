@@ -1,7 +1,7 @@
 # Feedback for Remote Computer Graphics 
 
 
-![Overview](images/2024-05-15_09-42.png)
+![Overview](2024-05-15_09-42.png)
 
 
 
@@ -59,6 +59,6 @@ print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 ```
 
 
-![Num Gpu Available](images/2024-05-15_09-33.png)
+![Num Gpu Available](2024-05-15_09-33.png)
 
 
